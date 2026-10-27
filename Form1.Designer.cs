@@ -77,6 +77,7 @@
             BtnHesapla.TabIndex = 4;
             BtnHesapla.Text = "VKI HESAPLA";
             BtnHesapla.UseVisualStyleBackColor = true;
+            BtnHesapla.Click += BtnHesapla_Click;
             // 
             // BtnSifirla
             // 

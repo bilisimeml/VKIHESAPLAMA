@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VKIAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea050d56b78a5675541978a34d7215b69ec3b9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VKIAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VKIAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,17 @@
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\bin\Debug\net10.0-windows\VKIAPP.exe
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\bin\Debug\net10.0-windows\VKIAPP.deps.json
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\bin\Debug\net10.0-windows\VKIAPP.runtimeconfig.json
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\bin\Debug\net10.0-windows\VKIAPP.dll
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\bin\Debug\net10.0-windows\VKIAPP.pdb
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.Form1.resources
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.csproj.GenerateResource.cache
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.AssemblyInfoInputs.cache
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.AssemblyInfo.cs
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.csproj.CoreCompileInputs.cache
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.dll
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\refint\VKIAPP.dll
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.pdb
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.genruntimeconfig.cache
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\ref\VKIAPP.dll
+C:\Users\Akif\source\repos\VKIAPP\VKIAPP\obj\Debug\net10.0-windows\VKIAPP.csproj.Up2Date
