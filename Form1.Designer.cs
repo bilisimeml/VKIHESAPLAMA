@@ -87,6 +87,7 @@
             BtnSifirla.TabIndex = 5;
             BtnSifirla.Text = "SIFIRLA";
             BtnSifirla.UseVisualStyleBackColor = true;
+            BtnSifirla.Click += BtnSifirla_Click;
             // 
             // LblDurum
             // 
